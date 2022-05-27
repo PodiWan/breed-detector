@@ -1,0 +1,5 @@
+#### dependencies without version specifiers ###
+pandas
+numpy
+matplotlib
+tensorflow
